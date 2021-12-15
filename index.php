@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1> version 2.0</h1>
+<h1> version 2.1</h1>
 
 <?php
-echo "Hello World 2!";
+echo "Hello World !";
 ?>
 
 </body>
