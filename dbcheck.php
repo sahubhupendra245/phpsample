@@ -1,7 +1,7 @@
 <?php
-$servername = "mariadb";
-$username = "webapp";
-$password = "redhat";
+$servername = "mariadb-1-fcwmk";
+$username = "webappdb";
+$password = "webappdb";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
