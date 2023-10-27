@@ -149,7 +149,7 @@ In this code:
 4. Define the EC2 instance, specifying the AMI, instance type, subnet, and security group.
 5. You can also include user data in the instance configuration. In this example, it simply writes "Hello, World!" to the instance's index.html file.
 6. Lastly, we output the public IP address of the EC2 instance.
-```
+
 
 In Markdown, you can use code blocks by enclosing the code within triple backticks (```). This makes it easy to share and format code snippets for others to read and use.
 User
